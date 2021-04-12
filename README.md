@@ -1,6 +1,9 @@
 # Developmental Braitenberg Vehicles
 Developmental Braitenberg Vehicles. Software and associated materials for enhanced BVs with developmentally inspired nervous systems.
 
+### Braitenberg Vehicles Study Group 
+Summer 2019-Spring 2020  [link](https://github.com/Orthogonal-Research-Lab/GSoC-Braitenberg-Vehicles/blob/master/README.md)
+
 # OREL Papers
 
 ### Introductory Paper
