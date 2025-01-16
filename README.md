@@ -13,4 +13,4 @@ Dvoretskii, S., Gong, Z., Gupta, A., Parent, J., and Alicea, B. (2020). [Braiten
 
 ### Developmental Artificial Intelligence (including concept of developmental freedom)
 
-Alicea, B., Chakrabarty, R., Gopi, A.V.G., Lim, A., Ozcelik, F., and Parent, J. (2020). [Embodied Continual Learning Across Developmental Time Via Developmental Braitenberg Vehicles](https://arxiv.org/abs/2103.05753v1). _arXiv_, 2103.05753.
+Alicea, B., Chakrabarty, R., Gopi, A.V.G., Lim, A., Ozcelik, F., and Parent, J. (2020). [Embodied Continual Learning Across Developmental Time Via Developmental Braitenberg Vehicles](https://iopscience.iop.org/article/10.1088/1757-899X/1321/1/012013). _IOP Conference Series: Materials Science and Engineering_, 1321, 012013.
