@@ -1,4 +1,5 @@
-## What are the different types of information that enable agentive learning?
+## What are the different types of information that enable agentive learning?    
+(answers compiled by Gemini 3, trained on all lab papers from 2020-2025)      
 
 Agentive learning is enabled by a combination of innate instructions, direct environmental perception, and embodied feedback that allows an agent to construct and refine its internal model of the world. As we discussed regarding developmental freedom, these information streams are often processed by a stable neural substrate to produce adaptive behaviors.    
 
