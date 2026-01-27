@@ -1,4 +1,5 @@
-## How do Gibsonian statistical affordances shape an agent's internal model?
+## How do Gibsonian statistical affordances shape an agent's internal model?     
+(answers compiled by Gemini 3, trained on all lab papers from 2020-2025)       
 
 Gibsonian statistical affordances shape an agent's internal model by providing a structural scaffolding of spatiotemporal information that the nervous system extracts through active perception,. Rather than being a passive recipient of data, the agent uses these statistically defined clusters of information to ground its internal representations in the physical dynamics of its environment.    
 
