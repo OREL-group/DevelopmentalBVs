@@ -1,5 +1,5 @@
-# Braintenberg Vehicles Simulations
-## Content
+## Braitenberg Vehicle Collectives
+### Content
 ### 1. What this is about?
 ### 2. The Braitenberg Vehicle
 ### 3. Simulation Environment
